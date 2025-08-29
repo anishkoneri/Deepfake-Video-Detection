@@ -96,14 +96,3 @@ Optimize for low-resource real-time inferencing on edge devices.
 Extend detection to multimodal inputs (audio + video).
 
 Build adversarial robust systems to combat evolving deepfake technologies.
-
-
-🤝 Contribution
-
-Contributions, suggestions, and bug reports are welcomed. Please fork the repo, create feature branches, and submit pull requests.
-
-
-📜 License
-
-Released under the MIT License.
-
